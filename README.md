@@ -3,7 +3,7 @@
 ## Cara Installasi
 
 ```bash
-git clone https://github.com/sukundev/flask-mvc.git
+git clone https://github.com/SukunDev/flask-mvc.git
 cd flask-mvc
 pip install requirements.txt
 python app.py
